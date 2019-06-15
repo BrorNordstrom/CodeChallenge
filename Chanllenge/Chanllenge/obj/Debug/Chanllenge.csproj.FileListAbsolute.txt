@@ -1,0 +1,13 @@
+c:\users\pang\documents\visual studio 2013\Projects\Chanllenge\Chanllenge\bin\Debug\Chanllenge.exe.config
+c:\users\pang\documents\visual studio 2013\Projects\Chanllenge\Chanllenge\bin\Debug\Chanllenge.exe
+c:\users\pang\documents\visual studio 2013\Projects\Chanllenge\Chanllenge\bin\Debug\Chanllenge.pdb
+c:\users\pang\documents\visual studio 2013\Projects\Chanllenge\Chanllenge\obj\Debug\Chanllenge.csprojResolveAssemblyReference.cache
+c:\users\pang\documents\visual studio 2013\Projects\Chanllenge\Chanllenge\obj\Debug\Chanllenge.exe
+c:\users\pang\documents\visual studio 2013\Projects\Chanllenge\Chanllenge\obj\Debug\Chanllenge.pdb
+C:\Users\Andreas Nordstrom\Desktop\Chanllenge\Chanllenge\bin\Debug\Chanllenge.exe.config
+C:\Users\Andreas Nordstrom\Desktop\Chanllenge\Chanllenge\bin\Debug\Chanllenge.exe
+C:\Users\Andreas Nordstrom\Desktop\Chanllenge\Chanllenge\bin\Debug\Chanllenge.pdb
+C:\Users\Andreas Nordstrom\Desktop\Chanllenge\Chanllenge\obj\Debug\Chanllenge.csprojAssemblyReference.cache
+C:\Users\Andreas Nordstrom\Desktop\Chanllenge\Chanllenge\obj\Debug\Chanllenge.csproj.CoreCompileInputs.cache
+C:\Users\Andreas Nordstrom\Desktop\Chanllenge\Chanllenge\obj\Debug\Chanllenge.exe
+C:\Users\Andreas Nordstrom\Desktop\Chanllenge\Chanllenge\obj\Debug\Chanllenge.pdb
